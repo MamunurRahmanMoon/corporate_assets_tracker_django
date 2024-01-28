@@ -1,0 +1,1 @@
+# corporate_assets_tracker_django
